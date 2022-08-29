@@ -37,3 +37,9 @@ function calculateTax(income: number, taxYear?: number): number {
 
 calculateTax(10_000);
 console.log(calculateTax);
+
+hfhf
+
+fhfhhff
+
+fhhf
